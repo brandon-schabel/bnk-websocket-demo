@@ -11,7 +11,7 @@ For simplicity we are just going to run the `client` and `server` seperatel.
 cd to the `server` directory and run
 
 ```bash
-bun run index.ts
+bun index.ts
 ```
 
 in a sepreate terminal run cd into the `client` directory and run
