@@ -2,9 +2,6 @@
   "name": "server",
   "module": "index.ts",
   "type": "module",
-  "scripts": {
-    "dev": "bun run index.tsx"
-  },
   "devDependencies": {
     "bun-types": "latest"
   },
@@ -12,8 +9,6 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@types/react-dom": "^18.2.7",
-    "@u-tools/core": "^0.0.49",
-    "react-dom": "^18.2.0"
+    "@u-tools/core": "^0.0.49"
   }
 }
